@@ -43,6 +43,10 @@
 
 ---
 
+<p align="center">
+  ![Visitors](https://visitcount.itsvg.in/api?id=ishan29jain&label=Profile%20Views&color=0&icon=0&pretty=false)
+</p>
+
 <!-- Optional: GitHub streak -->
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishan29jain&theme=react&hide_border=true" />
