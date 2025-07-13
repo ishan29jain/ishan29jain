@@ -41,9 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
 </p>
 
-<p align="center">
-  ![Visitors](https://visitcount.itsvg.in/api?id=ishan29jain&label=Profile%20Views&color=0&icon=0&pretty=false)
-</p>
+---
 
 <!-- Optional: GitHub streak -->
 <!-- <p align="center">
