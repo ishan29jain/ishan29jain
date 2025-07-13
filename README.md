@@ -1,39 +1,43 @@
-# Ishan Jain 👋
-
-Undergraduate CSE (AI & ML) student at Manipal University Jaipur  
-Based in Meerut, Uttar Pradesh, India | Pronouns: he/him  
-
-- 🌱 Passionate about **UI/UX design**, **Data Science**, **Machine Learning**, **swimming**, **traveling**, and **art**.  
-- 🤝 Let's connect!
+<h1 align="center">Hi 👋, I'm Ishan Jain</h1>
+<h3 align="center">An AI & ML enthusiast building cool things at the intersection of design and data.</h3>
 
 ---
 
-## 📚 Education & Certifications
-
-**Manipal University Jaipur**  
-- B.Tech in Computer Science (AI & ML), expected Sep 2026
-
----
-
-## 💻 Skills & Courses
-
-**Languages:** Python (Expert), Java/C/C++ (Intermediate), HTML/CSS/JS (Beginner–Intermediate)  
-**Topics:** Data Structures & Algorithms, OOP, DBMS, Computer Architecture, Discrete Math  
+- 🌱 Learning **React.js**, **Data Science**, and **System Design**  
+- 💬 Ask me about: `AI/ML`, `UI/UX`, `Python`, `Firebase`, `Frontend Development`  
+- 📫 Reach me at **jishan29oct@gmail.com**  
+- ⚡ Fun fact: I design better under pressure and daydream of well-kerned typefaces 😄  
 
 ---
 
-## 📫 Get in Touch
+### 🤝 Connect with me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/ishan-j-a15a4020b/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:jishan29oct@gmail.com">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="30" />
+  </a>
+</p>
 
-- 📱 Phone: +91‑74559‑39940  
-- ✉️ Email: jishan29oct@gmail.com  
-- 🔗 LinkedIn: https://rb.gy/340mh3  
-- 🌐 Portfolio: portfolio-wheat-kappa-25.vercel.app  
+---
+
+### 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+</p>
 
 ---
 
-## 🧠 Interests
-
-- Swimming • Traveling • Art  
-- UI/UX Design • Data Science & ML Engineering aspirations  
-
----
+<!-- Optional: GitHub streak -->
+<!-- <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishan29jain&theme=react&hide_border=true" />
+</p> -->
